@@ -1,0 +1,17 @@
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\bin\Debug\net7.0\ToDo.Business.deps.json
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\bin\Debug\net7.0\ToDo.Business.dll
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\bin\Debug\net7.0\ToDo.Business.pdb
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\bin\Debug\net7.0\ToDo.DataAccess.dll
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\bin\Debug\net7.0\ToDo.Entities.dll
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\bin\Debug\net7.0\ToDo.DataAccess.pdb
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\bin\Debug\net7.0\ToDo.Entities.pdb
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\obj\Debug\net7.0\ToDo.Business.csproj.AssemblyReference.cache
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\obj\Debug\net7.0\ToDo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\obj\Debug\net7.0\ToDo.Business.AssemblyInfoInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\obj\Debug\net7.0\ToDo.Business.AssemblyInfo.cs
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\obj\Debug\net7.0\ToDo.Business.csproj.CoreCompileInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\obj\Debug\net7.0\ToDo.Business.csproj.CopyComplete
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\obj\Debug\net7.0\ToDo.Business.dll
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\obj\Debug\net7.0\refint\ToDo.Business.dll
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\obj\Debug\net7.0\ToDo.Business.pdb
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Business\obj\Debug\net7.0\ref\ToDo.Business.dll

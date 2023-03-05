@@ -1,0 +1,12 @@
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\bin\Debug\net7.0\ToDo.Entities.deps.json
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\bin\Debug\net7.0\ToDo.Entities.dll
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\bin\Debug\net7.0\ToDo.Entities.pdb
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\obj\Debug\net7.0\ToDo.Entities.csproj.AssemblyReference.cache
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\obj\Debug\net7.0\ToDo.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\obj\Debug\net7.0\ToDo.Entities.AssemblyInfoInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\obj\Debug\net7.0\ToDo.Entities.AssemblyInfo.cs
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\obj\Debug\net7.0\ToDo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\obj\Debug\net7.0\ToDo.Entities.dll
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\obj\Debug\net7.0\refint\ToDo.Entities.dll
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\obj\Debug\net7.0\ToDo.Entities.pdb
+C:\Users\Z004PUVZ\Desktop\proje\ToDoApi\ToDo.Entities\obj\Debug\net7.0\ref\ToDo.Entities.dll

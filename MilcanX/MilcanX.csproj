@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="image\books.png" />
+    <None Remove="image\browser.png" />
+    <None Remove="image\calendar.png" />
+    <None Remove="image\checklist.png" />
+    <None Remove="image\document.jpg" />
+    <None Remove="image\info.png" />
+    <None Remove="image\manTheWhite.png" />
+    <None Remove="image\reading.png" />
+    <None Remove="image\setting.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes.MahApps" Version="0.2.7" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="image\books.png" />
+    <Resource Include="image\browser.png" />
+    <Resource Include="image\calendar.png" />
+    <Resource Include="image\checklist.png" />
+    <Resource Include="image\document.jpg" />
+    <Resource Include="image\info.png" />
+    <Resource Include="image\manTheWhite.png" />
+    <Resource Include="image\reading.png" />
+    <Resource Include="image\setting.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="View\" />
+  </ItemGroup>
+
+</Project>

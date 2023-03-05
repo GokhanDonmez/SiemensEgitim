@@ -1,0 +1,36 @@
+﻿
+Steps
+
+	1 - Simplify the Page Object Model
+		a - WebdriverExtensions.cs
+			i.		EnterText (args)
+			ii.		Click()
+			iii.	IsELementDisplayed()
+	2 - Category of Test Cases
+		a - Smoke Tests
+		b - Functional Tests
+		c - Unit Tests
+	3 - How to Read Config Data
+	4 - Push the Local Code to Remote Repo
+
+app.config
+
+	<configuration>
+		<appSettings>
+			<add key="url" value="https://demowebshop.tricentis.com/" />
+			<add key="username" value="cihan02@email.com" />
+			<add key="password" value="testing/" />
+		</appSettings>
+	</configuration>
+
+WebDriverExtension
+
+	public static void EnterText(this IWebDriver driver, By locator, string value)
+	{
+		IWebElement ele = driver.FindElement(locator);
+		if (ele != null && ele.Enabled)
+		{
+			ele.Clear();
+			ele.SendKeys(value);
+		}
+	}

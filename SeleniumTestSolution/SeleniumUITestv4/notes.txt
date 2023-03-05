@@ -1,0 +1,36 @@
+﻿NLog
+
+	- NLog is a logging framework for .NET
+	- NLog lets you log messages to a range of data stores (called targets). Everything from the console.
+
+Logging 
+
+	NLog provides a great API for logging messages to one or more targets. 
+	If you are already familiar with similar logging frameworks, you'll quickly be up and running logging with NLog.
+
+	Log Levels
+
+		All log messages have a severity called "Level". The following log levels are supported:
+			- Fatal
+			- Error
+			- Warn
+			- Info
+			- Debug
+			- Trace
+
+	Logging Messages
+
+		Logging messages with NLog is easy.
+		To log, you need a reference to a Logger from something called LogManager:
+			
+			Logger log = LogManager.GetCurrentClassLoggr();
+
+		Creating a new logger using the GetCurrentClassLogger method is the easiest way to obain a logger for the current context.
+		There are other ways to get a new logger and dependency injection is also available with NLog.
+		I may write something about this later if you guys are interested.
+
+		With the Logger instance in hand, you can start logging messages:
+
+		log.Debug("This is a debug message");
+		log.Error(new Exception(), "This is an error message");
+		log.Fatal("This is a fatal message");

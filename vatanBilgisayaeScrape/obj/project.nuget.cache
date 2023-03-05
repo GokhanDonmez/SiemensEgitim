@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9tm1WNKjX6N9VOIE9tCaeZANGHvT9oYhwcXZtoAV/TOrmU+vFtT83VQM0972fky+5Ot74qOUBs9UD7YFqApW6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004PUVZ\\Desktop\\proje\\WebAutomationLibrary\\vatanBilgisayaeScrape\\vatanBilgisayarScrape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004PUVZ\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

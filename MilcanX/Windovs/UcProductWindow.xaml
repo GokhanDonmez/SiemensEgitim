@@ -1,0 +1,61 @@
+﻿<Window x:Class="MilcanX.Windovs.UcProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MilcanX.Windovs"
+        mc:Ignorable="d"
+        Title="AddElement" Height="650" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid >
+        <Border  CornerRadius="10 10 10 10" Background="#FFEEB3B3">
+        <StackPanel>
+            <DockPanel Margin="30 0 60 30">
+                <Label   Content="ProductID=" Margin="30 0 50 0" Background="{x:Null}"></Label>
+                    <TextBox x:Name="txtProductID"  Background="#FFC59393" BorderThickness="1,3" BorderBrush="#89201F1F" Foreground="Black" Panel.ZIndex="1" IsEnabled="False"></TextBox>
+            </DockPanel>
+            <DockPanel Margin="30 0 50 30">
+                <Label Content="ProductName=" Margin="30 0 50 0"></Label>
+                    <TextBox x:Name="txtProductName"></TextBox>
+            </DockPanel>
+            <DockPanel Margin="30 0 50 30">
+                <Label Content="SupplierID=" Margin="30 0 50 0"></Label>
+                    <TextBox x:Name="txtSupplierID" ></TextBox>
+            </DockPanel>
+            <DockPanel Margin="30 0 50 30">
+                <Label Content="CategoryID=" Margin="30 0 50 0"></Label>
+                    <TextBox x:Name="txtCategoryID" ></TextBox>
+            </DockPanel>
+            <DockPanel Margin="30 0 50 30">
+                <Label Content="QuantityPerUnit=" Margin="30 0 50 0"></Label>
+                    <TextBox x:Name="txtQuantityPerUnit" ></TextBox>
+            </DockPanel>
+            <DockPanel Margin="30 0 50 30">
+                <Label Content="UnitPrice=" Margin="30 0 50 0"></Label>
+                    <TextBox x:Name="txtUnitPrice" ></TextBox>
+            </DockPanel>
+            <DockPanel Margin="30 0 50 30">
+                <Label Content="UnitsInStock=" Margin="30 0 50 0"></Label>
+                    <TextBox x:Name="txtUnitsInStock" ></TextBox>
+            </DockPanel>
+            <DockPanel Margin="30 0 50 30">
+                <Label Content="UnitsOnOrder=" Margin="30 0 50 0"></Label>
+                    <TextBox x:Name="txtUnitsOnOrder" ></TextBox>
+            </DockPanel>
+            <DockPanel Margin="30 0 50 30">
+                <Label Content="ReorderLevel=" Margin="30 0 50 0"></Label>
+                    <TextBox x:Name="txtReorderLevel"></TextBox>
+            </DockPanel>
+            <DockPanel Margin="30 0 50 30">
+                <Label Content="Discontinous=" Margin="30 0 50 0"></Label>
+                    <CheckBox x:Name="cbDiscontinous" Width="24"></CheckBox>
+            </DockPanel>
+            <DockPanel >
+                <Button x:Name="btnOK" Content="OK" Margin="80 0 50 0" Width="100" Click="btnOK_Click"></Button>
+                <Button x:Name="btnCancel" Content="CANCEL" Margin="0 0 60 0" Width="100"></Button>
+                
+            </DockPanel>
+
+        </StackPanel>
+        </Border>
+    </Grid>
+</Window>

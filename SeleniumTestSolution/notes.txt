@@ -1,0 +1,37 @@
+
+Website 
+
+	https://demowebshop.tricentis.com
+
+###		Method 1 - Basic Test	 ###
+
+	Test Scenario	: Validate the Register Functionality with Valid Data
+
+		Step 01 : Launch browser and navigate to site url
+		Step 02 : Verify the title of the Home page
+		Step 03 : Click on register link
+		Step 04 : Verify the register page Title
+		Step 05 : Select the gender Male
+		Step 06 : Enter FirstName
+		Step 07 : Enter LastName
+		Step 08 : Enter Email Address
+		Step 09 : Enter Password
+		Step 10 : Enter Confirm Password
+		Step 11 : Click Register Button
+		Step 12 : Verify the Registration Successfull Message
+		Step 13 : Verify the Email Account at Account
+
+Project Steps
+
+	Libraries
+
+		- Selenium.WebDriver
+		- Selenium.Support
+		- Selenium.WebDriver.ChromeDriver
+		- Selenium.WebDriver.IEDriver
+		- Selenium.WebDriver.GeckoDriver
+		- Selenium.RC
+
+	- CREATE 'Unit Test PRoject (.NET Framework)'		
+		MSTest
+		Project Name : SeleniumUITest

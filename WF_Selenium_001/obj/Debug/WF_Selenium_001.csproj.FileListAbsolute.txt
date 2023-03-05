@@ -1,0 +1,17 @@
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\bin\Debug\WF_Selenium_001.exe.config
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\bin\Debug\WF_Selenium_001.exe
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\bin\Debug\WF_Selenium_001.pdb
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\bin\Debug\WebDriver.dll
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\bin\Debug\WebDriver.Support.dll
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\obj\Debug\WF_Selenium_001.csproj.AssemblyReference.cache
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\obj\Debug\WF_Selenium_001.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\obj\Debug\WF_Selenium_001.Form1.resources
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\obj\Debug\WF_Selenium_001.Properties.Resources.resources
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\obj\Debug\WF_Selenium_001.csproj.GenerateResource.cache
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\obj\Debug\WF_Selenium_001.csproj.CoreCompileInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\obj\Debug\WF_Selenium_001.csproj.CopyComplete
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\obj\Debug\WF_Selenium_001.exe
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\WF_Selenium_001\obj\Debug\WF_Selenium_001.pdb

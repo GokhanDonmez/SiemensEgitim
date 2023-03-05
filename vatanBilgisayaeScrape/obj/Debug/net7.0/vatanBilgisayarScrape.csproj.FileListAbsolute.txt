@@ -1,0 +1,17 @@
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\bin\Debug\net7.0\vatanBilgisayarScrape.exe
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\bin\Debug\net7.0\vatanBilgisayarScrape.dll
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\bin\Debug\net7.0\HtmlAgilityPack.dll
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\vatanBilgisayarScrape.csproj.AssemblyReference.cache
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\vatanBilgisayarScrape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\vatanBilgisayarScrape.AssemblyInfoInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\vatanBilgisayarScrape.AssemblyInfo.cs
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\vatanBilgisayarScrape.csproj.CoreCompileInputs.cache
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\vatanBilgisayarScrape.csproj.CopyComplete
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\vatanBilgisayarScrape.dll
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\refint\vatanBilgisayarScrape.dll
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\vatanBilgisayarScrape.pdb
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\bin\Debug\net7.0\vatanBilgisayarScrape.deps.json
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\bin\Debug\net7.0\vatanBilgisayarScrape.runtimeconfig.json
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\bin\Debug\net7.0\vatanBilgisayarScrape.pdb
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\vatanBilgisayarScrape.genruntimeconfig.cache
+C:\Users\Z004PUVZ\Desktop\proje\WebAutomationLibrary\vatanBilgisayaeScrape\obj\Debug\net7.0\ref\vatanBilgisayarScrape.dll
